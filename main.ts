@@ -2,7 +2,7 @@
  *
  * Created by: Devon
  * Created on: Apr 2026
- * This program makes a whole circle with one pixel
+ * This program makes a whole circle with one pixel 
 */
 
 let sprite: game.LedSprite = null
